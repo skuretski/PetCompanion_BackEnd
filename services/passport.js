@@ -1,5 +1,4 @@
-//Strategies (local and jwt) written with help from Alex Paterson 
-//via Udemy.com (https://www.udemy.com/build-your-next-app-with-react-native-and-express/learn/v4/overview)
+//Strategies (local and jwt) written with help from 
 //https://github.com/alex-paterson/todolist-auth-backend-complete/blob/master/services/passport.js
 
 const passport = require('passport');

@@ -1,4 +1,4 @@
-// Code written with aid from
+// This API code written with influence from
 // https://github.com/alex-paterson/todolist-auth-backend-complete/blob/master/controllers/authentication_controller.js
 
 
